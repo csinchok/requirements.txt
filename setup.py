@@ -21,8 +21,8 @@ setup(name='requirements.txt',
       version='1.0',
       description='Helping people remember to type "-r"',
       author='Adam Wentz & Chris Sinchok',
-      author_email='tech@theonion.com',
-      url='http://www.theonion.com',
+      author_email='chris@sinchok.com',
+      url='https://github.com/csinchok/requirements.txt',
       packages=[],
 )
 

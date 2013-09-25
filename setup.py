@@ -17,7 +17,7 @@ sys.stdout.write("\x1b[31;1mPLEASE USE PIP MORE SAFELY IN THE FUTURE!\x1b[0m\n")
 sys.stdout.write("\n")
 sys.stdout.write("Do you promise to be more careful? [y/n]\n")
 
-setup(name='requirements.txt',
+setup(name='requirements-dev.txt',
       version='1.0',
       description='Helping people remember to type "-r"',
       author='Adam Wentz & Chris Sinchok',
